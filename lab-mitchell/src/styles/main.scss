@@ -1,0 +1,19 @@
+$primary: #333;
+$secondary: gray;
+$tertiary: pink;
+body {
+  background-color: $secondary;
+}
+
+h1, h2 {
+  color: $primary;
+}
+
+button, input {
+  color: $primary;
+  background-color: $tertiary;
+}
+
+input {
+  margin-right: 2%;
+}
