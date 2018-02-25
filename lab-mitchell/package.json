@@ -1,5 +1,5 @@
 {
-  "name": "28-route-and-testing",
+  "name": "29-component-composition",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -21,6 +21,7 @@
     "css-loader": "^0.28.9",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "^4.18.1",
     "eslint-plugin-react": "^7.7.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "html-webpack-plugin": "^2.30.1",
